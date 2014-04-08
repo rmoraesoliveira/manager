@@ -1,0 +1,21 @@
+{
+  "name": "manager",
+  "version": "1.0.0",
+  "main": "public/css/main.css",
+  "dependencies": {
+    "jquery": "~1.10.2",
+    "bootstrap": "~3.0"
+  },
+  "authors": [
+    "Rodrigo Moraes de Oliveira <contato@rmox.com.br>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ]
+}
